@@ -1,11 +1,5 @@
-.
-
-<!---
-nagayadav/nagayadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1 align="center">Hi 👋, I'm nagendrababu yadav</h1>
-<h3 align="center">A passionate full developer</h3>
+<h1 align="center">Hi 👋, I'm NagendraBabu yadav</h1>
+<h3 align="center">I'm a Java & Front end developer & backend developer from India. I build applications/API's in SpringBoot. You can often see me exploring new technologies, I do enjoy working with Backend Technologies like Servlets,Jsp,Hibernate and also well versed in Spring,Spring boot, Front End Technologies like html,css,JavaScript and React-js. Take a look at my repositories - some of my best works are pinned here..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagayadav&label=Profile%20views&color=0e75b6&style=flat" alt="nagayadav" /> </p>
 
